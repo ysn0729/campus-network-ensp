@@ -1,0 +1,14 @@
+# 系统 / 编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+
+# eNSP 工程缓存与大文件（拓扑文件请按 README 说明另行提供）
+*.efz
+*.topo.bak
+*.log
+__pycache__/
+*.pyc
